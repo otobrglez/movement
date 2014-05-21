@@ -31,5 +31,3 @@ INPUT_FOLDER=tmp ./bin/visualizer.rb
 4. Love the output <3
 
 ![out-montage](out-montage.jpg)
-
-![out-layers](out-layers.jpg)

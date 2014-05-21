@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
-# convert -layers flatten ./build/*.png out-layers.png
-
+# convert -layers flatten ./build/*.png out-layers.jpg
 
 montage ./build/*.png \
   -background '#FFFFFF' \
