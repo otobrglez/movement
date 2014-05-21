@@ -1,6 +1,6 @@
 # movement
 
-Little script that I used to make nice vizualisation of my tracks.
+Scripts used to visualise my GPS tracks.
 
 - [Oto Brglez](https://github.com/otobrglez)
 
