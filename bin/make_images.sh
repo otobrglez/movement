@@ -23,9 +23,8 @@ for i in $(seq -f "%03g" 0 360); do
     -size 384x384 \
     -resize 384x384 \
     -geometry +0+0 \
-    -tile 5x2 \
+    -tile 5x5 \
     "./build/big-frame-$i.jpg"
-
 
   echo $i
 done
