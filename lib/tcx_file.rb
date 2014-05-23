@@ -89,7 +89,7 @@ class TCXFile
         (altitude > self.altitudes[1] ? altitude : self.altitudes[1]),
       ] unless altitude.nil?
 
-      self.points.push [la, lo]
+      self.points.push [la, lo, altitude]
     end
   end
 
