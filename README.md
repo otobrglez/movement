@@ -2,7 +2,7 @@
 
 Scripts used to visualise my GPS tracks as [video] or [image].
 
-- [Oto Brglez](https://github.com/otobrglez)
+![out-montage](out-montage.jpg)
 
 ## Requirements
 
@@ -37,7 +37,10 @@ NUM_OF_FRAMES=360 NUM_OF_FILES=9 ./bin/visualizer.rb
 
 4. Love the output <3
 
-![out-montage](out-montage.jpg)
+
+## Author
+
+- [Oto Brglez](https://github.com/otobrglez)
 
 [video]:https://vimeo.com/96191896
 [image]:out-montage.jpg
